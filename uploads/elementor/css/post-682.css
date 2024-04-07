@@ -1,0 +1,61 @@
+.elementor-682 .elementor-element.elementor-element-7a598be{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--gap:0px 0px;--background-transition:0.3s;--margin-block-start:0px;--margin-block-end:100px;--margin-inline-start:0px;--margin-inline-end:0px;}.elementor-682 .elementor-element.elementor-element-11aec1b{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-682 .elementor-element.elementor-element-666ceed{--box-border-color:#052C62;--box-border-width:1px;--box-border-radius:10px;--header-background-color:#F3F3F3;--header-color:#052C62;--separator-width:0px;--item-text-color:#052C62;--item-text-hover-color:#E0A34F;--item-text-active-color:#E0A34F;}.elementor-682 .elementor-element.elementor-element-666ceed .elementor-toc__header, .elementor-682 .elementor-element.elementor-element-666ceed .elementor-toc__header-title{font-family:"Red Rose", Sans-serif;font-size:22px;font-weight:600;text-transform:uppercase;}.elementor-682 .elementor-element.elementor-element-666ceed .elementor-toc__list-item{font-family:"Red Rose", Sans-serif;font-size:19px;font-weight:400;}.elementor-682 .elementor-element.elementor-element-b1d75fb{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-682 .elementor-element.elementor-element-f85c5c0 .elementor-heading-title{color:#052C62;font-family:"Red Rose", Sans-serif;font-size:28px;font-weight:600;text-transform:uppercase;}.elementor-682 .elementor-element.elementor-element-f85c5c0 > .elementor-widget-container{margin:0px 0px 10px 0px;}.elementor-682 .elementor-element.elementor-element-2ef110b .elementor-heading-title{color:#052C62;font-family:"Red Rose", Sans-serif;font-size:22px;font-weight:600;}.elementor-682 .elementor-element.elementor-element-de09285{color:#052C62;font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:400;line-height:1.2em;}.elementor-682 .elementor-element.elementor-element-6abb8cf .elementor-heading-title{color:#052C62;font-family:"Red Rose", Sans-serif;font-size:22px;font-weight:600;}.elementor-682 .elementor-element.elementor-element-15d626a{color:#052C62;font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:400;line-height:1.2em;}.elementor-682 .elementor-element.elementor-element-c7c291a .elementor-heading-title{color:#052C62;font-family:"Red Rose", Sans-serif;font-size:22px;font-weight:600;}.elementor-682 .elementor-element.elementor-element-e2fe035{color:#052C62;font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:400;line-height:1.2em;}.elementor-682 .elementor-element.elementor-element-06ea4be .elementor-heading-title{color:#052C62;font-family:"Red Rose", Sans-serif;font-size:22px;font-weight:600;}.elementor-682 .elementor-element.elementor-element-e0afc29{color:#052C62;font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:400;line-height:1.2em;}@media(min-width:768px){.elementor-682 .elementor-element.elementor-element-11aec1b{--width:50%;}.elementor-682 .elementor-element.elementor-element-b1d75fb{--width:50%;}}@media(max-width:767px){.elementor-682 .elementor-element.elementor-element-7a598be{--margin-block-start:0px;--margin-block-end:30px;--margin-inline-start:0px;--margin-inline-end:0px;}.elementor-682 .elementor-element.elementor-element-11aec1b{--padding-block-start:0px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}}/* Start custom CSS for table-of-contents, class: .elementor-element-666ceed */.__table_content{
+    max-width: 364px !Important;
+}
+.__table_content .elementor-toc__header{
+    position: relative;
+}
+.__table_content .elementor-toc__header:before{
+    content:"";
+    width:25px;
+    height: 18px;
+    display: block;
+    position: absolute;
+    right: 30px;
+    top: 22px;
+    background-image: url('/wp-content/uploads/2024/03/icon_title_content.png');
+    background-size: 100% 100%;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Red Rose';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://demo.thammysiam.com/wp-content/uploads/2023/11/RedRose-Regular-1.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Red Rose';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('http://demo.thammysiam.com/wp-content/uploads/2023/11/RedRose-SemiBold-1.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Red Rose';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://demo.thammysiam.com/wp-content/uploads/2023/11/RedRose-Bold-1.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://demo.thammysiam.com/wp-content/uploads/2023/11/Montserrat-Medium-1.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('http://demo.thammysiam.com/wp-content/uploads/2023/11/Montserrat-SemiBold-2.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://demo.thammysiam.com/wp-content/uploads/2023/11/Montserrat-Bold-2.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
